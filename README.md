@@ -24,6 +24,6 @@
   
    Happy coding! 🚀✨
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+    
+![Leetcode Stats](https://leetcard.jacoblin.cool/SumitBhosle?ext=heatmap)
 
