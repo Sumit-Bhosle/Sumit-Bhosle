@@ -21,23 +21,7 @@
   <img src="https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge&logo=git" />
 </p>
 
----
 
-## ⚡ Live Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Bhosle&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Bhosle&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Bhosle&theme=tokyo-night" />
-</p>
-
----
 
 ---
 🧠 Profile Summary
@@ -177,9 +161,17 @@ Experienced in:
 
 ## 📊 GitHub Analytics
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Bhosle&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Bhosle&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Bhosle&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Bhosle&theme=tokyo-night" />
 </p>
 
 ---
