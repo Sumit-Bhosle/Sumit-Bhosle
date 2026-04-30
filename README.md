@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Cloud+%7C+DevOps;AWS+Infrastructure+%7C+System+Recovery;OpenVAS+%7C+Vulnerability+Assessment;I+debug+real+systems+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Development+%7C;Cybersecurity+%7C+Cloud+%7C+DevOps;AWS+Infrastructure+%7C+System+Recovery;OpenVAS+%7C+Vulnerability+Assessment;I+debug+real+systems+%F0%9F%94%A5" />
 </p>
 
 ---
