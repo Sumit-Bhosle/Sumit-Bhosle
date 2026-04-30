@@ -54,6 +54,21 @@ Experienced in:
 
 ---
 
+## 🚀 Currently Learning  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Problem_Solving-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Vulnerability_Assessment-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-Fundamentals-orange?style=for-the-badge" />
+</p>
+
+- 🧠 **DSA** → strengthening problem-solving and coding logic  
+- 🔐 **Cybersecurity** → vulnerability scanning, OpenVAS, system security  
+- ⚙️ **DevOps** → CI/CD concepts, Linux workflows, automation basics  
+
+💡 *Focused on building strong fundamentals with hands-on practice.*
+
+
 ## ☁️ Cloud & Certification
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=for-the-badge\&logo=amazonaws)
